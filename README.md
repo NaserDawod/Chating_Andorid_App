@@ -1,7 +1,7 @@
 # Chating_Andorid_App
 
 Chating app that allows you to create accounts add your frinds and talk with them with RealTime messages(thanks to firebase).</br>
-the app is written in java using android studio, and it works with the API service from the Chating server we created, i made the app with my partners hiba and nsr as a part of an university assingment.</br>
+the app is written in java using android studio, and it works with the API service from the Chating server we created, i made the app with my university partners as a part of an university assingment.</br>
 to use the app you need to run the chat server here: https://github.com/NaserDawod/Chat_APIServer </br>
 
 here is a video of the website and the app working together: https://mega.nz/file/WxtlQJZC#Z17dLpbwxZnI2xsb2JQLNWOp_5X361lMUD_DEomJtqU </br>
